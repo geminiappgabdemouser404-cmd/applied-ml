@@ -7,5 +7,4 @@ pr,title,release,merged_date,author_handle,category,status
 1099,fix: ActivationCache device-placement,2.15.0,2026-05-05,chi-wd,bugfix,merged
 1101,tokenizer edge case (revised to permissive dep),2.15.0,2026-05-14,external,chore,merged
 1112,Gemma-3 adapter,2.16.0,2026-06-17,bram-cn,adapter,merged
-1118,ActivationCache signature: explicit device arg,2.16.0,2026-06-22,bram-cn,feature,merged
 1122,hotfix: Gemma-3 norm-eps placement,2.16.1,2026-06-27,bram-cn,bugfix,merged
